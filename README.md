@@ -7,6 +7,7 @@ A website that simulates a rudimentary Pokémon battle. Pokémon data is retriev
 
 
 <h3>Created using </h3>
+
 * HTML
 * CSS
 * JavaScript
